@@ -1,4 +1,5 @@
-# Arasaka-D1------Open-source-5DOF-Robotic-arm
+# Arasaka-D1 
+# Open-source-5DOF-Robotic-arm
 
 
 | <img src= "IMAGES/Screenshot 2025-12-04 160019.png" >| <img src= "IMAGES/Screenshot 2025-12-06 165035.png">|
